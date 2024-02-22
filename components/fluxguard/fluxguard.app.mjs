@@ -1,6 +1,6 @@
 export default {
   type: "app",
-  app: "keysender",
+  app: "fluxguard",
   propDefinitions: {},
   methods: {
     // this.$auth contains connected account data

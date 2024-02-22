@@ -1,6 +1,6 @@
 export default {
   type: "app",
-  app: "keysender",
+  app: "thoughtful_gpt",
   propDefinitions: {},
   methods: {
     // this.$auth contains connected account data

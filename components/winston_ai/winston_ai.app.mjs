@@ -1,6 +1,6 @@
 export default {
   type: "app",
-  app: "keysender",
+  app: "winston_ai",
   propDefinitions: {},
   methods: {
     // this.$auth contains connected account data
